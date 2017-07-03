@@ -2,7 +2,9 @@
 name: Agile Collective
 website: http://agile.coop
 email: info@agile.coop
+facebook:
 twitter: AgileCollective
+github:
 telephone: 01865 403 120
 address: Room 301, The Old Music Hall, 106-108 Cowley Road, Oxford, United Kingdom, OX4 1JE
 latitude: 51.7483541

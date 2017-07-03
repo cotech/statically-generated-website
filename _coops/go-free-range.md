@@ -2,6 +2,7 @@
 name: Go Free Range
 website: http://gofreerange.com
 email: lets@gofreerange.com
+facebook:
 twitter: freerange
 github: freerange
 telephone: N/A

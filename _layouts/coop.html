@@ -31,6 +31,13 @@
               <section class="row small-up-1 medium-up-4 large-up-1">
                 <div class="column">
                   <ul class="menu social">
+                    {% if page.facebook %}
+                    <li>
+                      <a href="https://www.facebook.com/{{ page.facebook }}" target="_blank">
+                        <i class="fi-social-facebook"></i>
+                      </a>
+                    </li>
+                    {% endif %}
                     {% if page.twitter %}
                     <li>
                       <a href="http://twitter.com/{{ page.twitter }}" target="_blank">

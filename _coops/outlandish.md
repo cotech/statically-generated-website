@@ -2,6 +2,7 @@
 name: Outlandish
 website: http://outlandish.com
 email: hello@outlandish.com
+facebook:
 twitter: outlandish
 github: outlandishideas
 telephone: +44 (0) 207 561 9968
